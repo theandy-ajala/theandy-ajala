@@ -1,16 +1,16 @@
-## Hi there 👋
+bem vindo ao meu perrfil 🖤
 
-<!--
-**theandy-ajala/theandy-ajala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é andy souza ajala
 
-Here are some ideas to get you started:
+minhas principais atividades na plataforma estão relacionadas à:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Aulas do alura 📝;
+- Programação javascrtipt🖥️;
+- minha organização e desenvolvimento pessoal em programação 📈;
+
+- para entrar em contato comigo acesse:
+  
+📷 @pe.ayyo
+
+![download](https://github.com/theandy-ajala/theandy-ajala/assets/172427139/85fc01fc-1a72-43f1-96a3-71ffa0f16c8a)
+![Gustavo-11](https://github.com/theandy-ajala/theandy-ajala/assets/172427139/8bf27248-6023-47cd-a105-6c4f45bbeecf)
